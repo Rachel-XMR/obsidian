@@ -1,0 +1,73 @@
+{
+  "callouts": {
+    "custom": [
+      "cloze",
+      "icon"
+    ],
+    "settings": {
+      "example": [
+        {
+          "changes": {
+            "color": "129, 110, 156"
+          }
+        }
+      ],
+      "code": [
+        {
+          "changes": {
+            "icon": "lucide-code-2",
+            "color": "155, 155, 157"
+          }
+        }
+      ],
+      "cloze": [
+        {
+          "changes": {
+            "icon": "codeblock-glyph",
+            "color": "0, 194, 23"
+          }
+        }
+      ],
+      "icon": [
+        {
+          "changes": {
+            "icon": "codeblock-glyph"
+          }
+        },
+        {
+          "condition": {
+            "colorScheme": "light"
+          },
+          "changes": {}
+        },
+        {
+          "condition": {
+            "colorScheme": "dark"
+          },
+          "changes": {
+            "color": "20, 168, 0"
+          }
+        }
+      ],
+      "done": [
+        {
+          "changes": {
+            "icon": "codeblock-glyph"
+          }
+        }
+      ],
+      "failure": [
+        {
+          "changes": {
+            "icon": "codeblock-glyph"
+          }
+        }
+      ]
+    }
+  },
+  "calloutDetection": {
+    "obsidian": true,
+    "theme": true,
+    "snippet": true
+  }
+}

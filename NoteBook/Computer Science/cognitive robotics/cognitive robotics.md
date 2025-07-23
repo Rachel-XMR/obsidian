@@ -1,0 +1,4 @@
+---
+LINK:
+  - "[[Computer Science]]"
+---

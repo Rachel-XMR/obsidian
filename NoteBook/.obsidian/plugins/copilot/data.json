@@ -1,0 +1,223 @@
+{
+  "isPlusUser": false,
+  "plusLicenseKey": "",
+  "openAIApiKey": "",
+  "openAIOrgId": "",
+  "huggingfaceApiKey": "",
+  "cohereApiKey": "enc_desk_djEw8wif8a3CgWdKPMU7nxzofYyWkOwsZ2ibSiWbEOk7TzN6ttB7lBfghzvLLPe2pa2t/NUgCzStF9RWjVOiZxmTVB/OQus=",
+  "anthropicApiKey": "",
+  "azureOpenAIApiKey": "",
+  "azureOpenAIApiInstanceName": "",
+  "azureOpenAIApiDeploymentName": "",
+  "azureOpenAIApiVersion": "",
+  "azureOpenAIApiEmbeddingDeploymentName": "",
+  "googleApiKey": "enc_desk_djEwqFx/lqTnlNTuenO7azqb01Rs9xPsCLgbMt8lt0G6StAyPLQvbp8qK5x4lQgKmlpL9KJLSDaVmnZjaLtWMNfayefMPQ==",
+  "openRouterAiApiKey": "enc_desk_djEw50AB0WpSTpGBMg5yhWGF+1BSnUaw/myc1vh0EGX9MQPb6aROHZxCbYB9lLVz8+5jF0njLVhE+8BtJvjuM5v7lyYhZxDzrz1nLzWimwL+oYQe0b7TG7jYdgPwc+7+sG+3EaAV4I8=",
+  "defaultChainType": "llm_chain",
+  "defaultModelKey": "gemini-1.5-pro|google",
+  "embeddingModelKey": "text-embedding-004|google",
+  "temperature": 0.1,
+  "maxTokens": 1000,
+  "contextTurns": 15,
+  "userSystemPrompt": "",
+  "openAIProxyBaseUrl": "",
+  "openAIEmbeddingProxyBaseUrl": "",
+  "stream": true,
+  "defaultSaveFolder": "copilot-conversations",
+  "defaultConversationTag": "copilot-conversation",
+  "autosaveChat": false,
+  "defaultOpenArea": "view",
+  "customPromptsFolder": "copilot-custom-prompts",
+  "indexVaultToVectorStore": "ON STARTUP",
+  "qaExclusions": "",
+  "qaInclusions": "",
+  "chatNoteContextPath": "",
+  "chatNoteContextTags": [],
+  "enableIndexSync": true,
+  "debug": false,
+  "enableEncryption": true,
+  "maxSourceChunks": 3,
+  "groqApiKey": "enc_desk_djEwm4arFqImg4r2HBsP+wTmsrPDcozxdF5rxYHGD7b5EydxKiPlPESo1jX5mcfIAStyopR9xomY+eqO7ciYKbzoGEpwCbCmsrSjJGcHczr6ga8w0O6X",
+  "mistralApiKey": "",
+  "activeModels": [
+    {
+      "name": "copilot-plus-flash",
+      "provider": "copilot-plus",
+      "enabled": true,
+      "isBuiltIn": true,
+      "core": true,
+      "capabilities": [
+        "vision"
+      ],
+      "enableCors": false,
+      "apiKey": ""
+    },
+    {
+      "name": "gpt-4o",
+      "provider": "openai",
+      "enabled": true,
+      "isBuiltIn": true,
+      "core": true,
+      "capabilities": [
+        "vision"
+      ],
+      "apiKey": ""
+    },
+    {
+      "name": "gpt-4o-mini",
+      "provider": "openai",
+      "enabled": true,
+      "isBuiltIn": true,
+      "core": true,
+      "capabilities": [
+        "vision"
+      ],
+      "apiKey": ""
+    },
+    {
+      "name": "claude-3-5-sonnet-latest",
+      "provider": "anthropic",
+      "enabled": true,
+      "isBuiltIn": true,
+      "core": true,
+      "capabilities": [
+        "vision"
+      ],
+      "apiKey": ""
+    },
+    {
+      "name": "gpt-4-turbo",
+      "provider": "openai",
+      "enabled": true,
+      "isBuiltIn": true,
+      "apiKey": ""
+    },
+    {
+      "name": "claude-3-5-haiku-latest",
+      "provider": "anthropic",
+      "enabled": true,
+      "isBuiltIn": true,
+      "apiKey": ""
+    },
+    {
+      "name": "command-r",
+      "provider": "cohereai",
+      "enabled": true,
+      "isBuiltIn": true,
+      "apiKey": ""
+    },
+    {
+      "name": "command-r-plus",
+      "provider": "cohereai",
+      "enabled": true,
+      "isBuiltIn": true,
+      "apiKey": ""
+    },
+    {
+      "name": "gemini-1.5-pro",
+      "provider": "google",
+      "enabled": true,
+      "isBuiltIn": true,
+      "apiKey": ""
+    },
+    {
+      "name": "gemini-1.5-flash",
+      "provider": "google",
+      "enabled": true,
+      "isBuiltIn": true,
+      "apiKey": ""
+    },
+    {
+      "name": "azure-openai",
+      "provider": "azure openai",
+      "enabled": true,
+      "isBuiltIn": true,
+      "apiKey": ""
+    }
+  ],
+  "activeEmbeddingModels": [
+    {
+      "name": "copilot-plus-small",
+      "provider": "copilot-plus",
+      "enabled": true,
+      "isBuiltIn": true,
+      "isEmbeddingModel": true,
+      "core": true,
+      "enableCors": false
+    },
+    {
+      "name": "copilot-plus-large",
+      "provider": "copilot-plus-jina",
+      "enabled": true,
+      "isBuiltIn": true,
+      "isEmbeddingModel": true,
+      "core": true,
+      "believerExclusive": true,
+      "dimensions": 1024
+    },
+    {
+      "name": "copilot-plus-multilingual",
+      "provider": "copilot-plus-jina",
+      "enabled": true,
+      "isBuiltIn": true,
+      "isEmbeddingModel": true,
+      "core": true,
+      "dimensions": 512
+    },
+    {
+      "name": "text-embedding-3-small",
+      "provider": "openai",
+      "enabled": true,
+      "isBuiltIn": true,
+      "isEmbeddingModel": true,
+      "core": true
+    },
+    {
+      "name": "copilot-plus-large",
+      "provider": "copilot-plus",
+      "enabled": true,
+      "isBuiltIn": true,
+      "isEmbeddingModel": true,
+      "core": true,
+      "believerExclusive": true
+    },
+    {
+      "name": "text-embedding-3-large",
+      "provider": "openai",
+      "enabled": true,
+      "isBuiltIn": true,
+      "isEmbeddingModel": true
+    },
+    {
+      "name": "embed-multilingual-light-v3.0",
+      "provider": "cohereai",
+      "enabled": true,
+      "isBuiltIn": true,
+      "isEmbeddingModel": true
+    },
+    {
+      "name": "text-embedding-004",
+      "provider": "google",
+      "enabled": true,
+      "isBuiltIn": true,
+      "isEmbeddingModel": true
+    },
+    {
+      "name": "azure-openai",
+      "provider": "azure openai",
+      "enabled": true,
+      "isBuiltIn": true,
+      "isEmbeddingModel": true
+    }
+  ],
+  "embeddingRequestsPerMin": 90,
+  "embeddingBatchSize": 16,
+  "disableIndexOnMobile": false,
+  "showSuggestedPrompts": true,
+  "showRelevantNotes": true,
+  "numPartitions": 1,
+  "enabledCommands": {},
+  "promptUsageTimestamps": {},
+  "defaultConversationNoteName": "{$topic}@{$date}_{$time}",
+  "embeddingRequestsPerSecond": 10
+}

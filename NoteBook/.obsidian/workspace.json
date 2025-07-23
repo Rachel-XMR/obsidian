@@ -1,0 +1,385 @@
+{
+  "main": {
+    "id": "5324373015726ba8",
+    "type": "split",
+    "children": [
+      {
+        "id": "3b5d3e39171b2874",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "115514a1741192ea",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Computer Science/Database/Data modeling.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Data modeling"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "583dbf585878a330",
+    "type": "split",
+    "children": [
+      {
+        "id": "fc4905fba1924f04",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "89d062b0c7757f4a",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "檔案瀏覽器"
+            }
+          },
+          {
+            "id": "4e056729fb3b7a8d",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          },
+          {
+            "id": "18f524f9d2bb3dca",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {},
+              "icon": "clock",
+              "title": "Recent Files"
+            }
+          },
+          {
+            "id": "2798657297fcb0c1",
+            "type": "leaf",
+            "state": {
+              "type": "mk-path-view",
+              "state": {},
+              "icon": "layout-grid",
+              "title": "Spaces"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "18c3d707d84ff1b5",
+    "type": "split",
+    "children": [
+      {
+        "id": "aa90a005b457779e",
+        "type": "tabs",
+        "dimension": 33.573141486810556,
+        "children": [
+          {
+            "id": "3024158df826a1e5",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Master Project/Intro.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Intro 的大綱"
+            }
+          },
+          {
+            "id": "5365b3c458282124",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "標籤"
+            }
+          },
+          {
+            "id": "80bef4eeaa486a5b",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Computer Science/Database/NoSQL/MongoDB/MongoDB relationship.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": false
+              },
+              "icon": "links-going-out",
+              "title": "MongoDB relationship 的對外連結"
+            }
+          },
+          {
+            "id": "e65fd348b3b625bf",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Computer Science/Database/NoSQL/MongoDB/MongoDB relationship.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "MongoDB relationship 的反向連結"
+            }
+          },
+          {
+            "id": "a5885c6f4b30b0b2",
+            "type": "leaf",
+            "state": {
+              "type": "todo",
+              "state": {},
+              "icon": "checkmark",
+              "title": "Todo List"
+            }
+          },
+          {
+            "id": "5e40c155b2b1cb94",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "所有屬性"
+            }
+          },
+          {
+            "id": "a2c4c10ac613c4cf",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
+          },
+          {
+            "id": "1e31e782d5748eab",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "Computer Science/cognitive robotics/development.md",
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": false,
+                  "colorGroups": [
+                    {
+                      "query": "path:\"Data Science/Text Mining\"  ",
+                      "color": {
+                        "a": 1,
+                        "rgb": 14701138
+                      }
+                    },
+                    {
+                      "query": "path:\"Data Science/Deep Learning\"  ",
+                      "color": {
+                        "a": 1,
+                        "rgb": 11657298
+                      }
+                    },
+                    {
+                      "query": "path:\"Data Science/Natural Language Processing NLP\"  ",
+                      "color": {
+                        "a": 1,
+                        "rgb": 16029000
+                      }
+                    }
+                  ],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 0.47888820525452014,
+                  "close": true
+                }
+              },
+              "icon": "lucide-git-fork",
+              "title": "development 的關聯圖"
+            }
+          },
+          {
+            "id": "5424ac00326600a3",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {},
+              "icon": "spreadsheet",
+              "title": "Advanced Tables"
+            }
+          }
+        ]
+      },
+      {
+        "id": "7bc0dce4fa88252f",
+        "type": "tabs",
+        "dimension": 66.42685851318944,
+        "children": [
+          {
+            "id": "82638d3ca11320c0",
+            "type": "leaf",
+            "state": {
+              "type": "copilot-chat-view",
+              "state": {},
+              "icon": "message-square",
+              "title": "Copilot"
+            }
+          },
+          {
+            "id": "35dc52b40412eb73",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "LSTM",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜尋"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 240.5,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:開啟快速切換": false,
+      "graph:查看關聯圖": false,
+      "canvas:建立新畫布": false,
+      "command-palette:開啟命令面板": false,
+      "markdown-importer:開啟 Markdown 格式轉換器": false,
+      "audio-recorder:開始/停止錄音": false,
+      "publish:發佈變動內容": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "obsidian-kanban:Create new board": false,
+      "dbfolder:Create a new database table": false,
+      "omnisearch:Omnisearch": false,
+      "templates:插入模板": false,
+      "webpage-html-export:Export Vault to HTML": true,
+      "callout-manager:Insert Callout": true,
+      "hide-folders:Hide hidden folders again": true,
+      "media-extended:Open media": false,
+      "obsidian-importer:Open Importer": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "markdown-table-editor:Open Markdown Table Editor": false,
+      "templater-obsidian:Templater": true,
+      "obsidian42-text-transporter:Text Transporter": true,
+      "obsidian-local-images-plus:Local Images Plus  0.16.3\r\nLocalize attachments (plugin folder)": true,
+      "whisper:Open recording controls": false,
+      "copilot:Open Copilot Chat": true,
+      "smart-composer:Open smart composer": true
+    }
+  },
+  "active": "89d062b0c7757f4a",
+  "lastOpenFiles": [
+    "PICTURE/Data modeling/47b16b86cbec4bda58ae719488bd2880_MD5.jpeg",
+    "Computer Science/Database/Pasted image 20250723172313.png",
+    "PICTURE/Data modeling/4e562de3980e95e0ea605bd3d65274f4_MD5.jpeg",
+    "Computer Science/Database/Pasted image 20250723171902.png",
+    "PICTURE/Data modeling/ca5fc324ee7e4b1e20e5b27fec4de29e_MD5.jpeg",
+    "Computer Science/Database/Pasted image 20250723165208.png",
+    "PICTURE/Data modeling/4d95824eb9741e3a8fef982cd180509e_MD5.jpeg",
+    "Computer Science/Database/Pasted image 20250723165153.png",
+    "PICTURE/Data modeling/87d77dd14092747bbb05ee7a26ba881b_MD5.jpeg",
+    "Computer Science/Database/Pasted image 20250723165140.png",
+    "PICTURE/Data modeling/9d60585f4f83ba0892604bc9f78bc95c_MD5.jpeg",
+    "PICTURE/Data modeling",
+    "Computer Science/Database/DBMS - Database Management System.md",
+    "Computer Science/Database/Data modeling.md",
+    "PICTURE/DBMS - Database Management System",
+    "Computer Science/Database/Database.md",
+    "PICTURE/Database",
+    "Computer Science/Database/MySQL/MySQL.md",
+    "Master Project/Intro.md",
+    "Master Project/Literature Review.md",
+    "Data Science/Deep Learning/Deep Learning for NLP.md",
+    "Statistic/Classification/Clustering/K-Means k均值聚類算法.md",
+    "Statistic/Classification/Clustering/Model-based Clustering.md",
+    "PICTURE/Model-based Clustering",
+    "Statistic/Classification/Clustering/Clustering.md",
+    "Statistic/Classification/Classification.md",
+    "Computer Science/cognitive robotics/Computer vision/Local Features.md",
+    "Computer Science/cognitive robotics/Computer vision/Computer vision.md",
+    "Data Science/Neural Networks 神經網絡/CNN Convolutional Neural Networks.md",
+    "Computer Science/cognitive robotics/cognitive robotics.md",
+    "Computer Science/cognitive robotics/未命名.md",
+    "Computer Science/cognitive robotics/Computer vision",
+    "Computer Science/cognitive robotics/Cognitive Robot Simulation.md",
+    "Computer Science/cognitive robotics/intro.md",
+    "Computer Science/cognitive robotics/Modelling Cognitive System 認知系統建模.md",
+    "Computer Science/cognitive robotics/HUMANOID ROBOTS 人形機器人.md",
+    "Computer Science/cognitive robotics/development.md",
+    "Computer Science/cognitive robotics/Human-Robot Interaction (HRI) and Applications.md",
+    "Data Science/Neural Networks 神經網絡/RNN.md",
+    "PICTURE/RNN",
+    "Data Science/Natural Language Processing NLP/Annotation Formats.md",
+    "Data Science/Neural Networks 神經網絡/Introduction to ANNs.md",
+    "PICTURE/CNN Convolutional Neural Networks",
+    "PICTURE/Neural Networks 神經網絡",
+    "PICTURE/Neural Networks 人工神經網絡",
+    "Data Science/Data Science.canvas",
+    "PICTURE/Cognitive Robot Simulation",
+    "Computer Science/Database/Untitled.canvas",
+    "未命名.canvas"
+  ]
+}

@@ -1,0 +1,114 @@
+{
+  "collapse-filter": false,
+  "search": "",
+  "showTags": false,
+  "showAttachments": false,
+  "hideUnresolved": false,
+  "showOrphans": false,
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "path:\"Data Science/modelling\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 5431378
+      }
+    },
+    {
+      "query": "path:\"Data Science/Machine Learning\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 7501279
+      }
+    },
+    {
+      "query": "path:\"Data Science/Deep Learning\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 14701138
+      }
+    },
+    {
+      "query": "path:\"Data Science/Artificial Neural Networks 神經網絡\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 15371869
+      }
+    },
+    {
+      "query": "path:\"Data Science/Natural Language Processing NLP\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 14701233
+      }
+    },
+    {
+      "query": "path:\"Data Science/Text Mining\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 11621088
+      }
+    },
+    {
+      "query": "path:\"Computer Science/Database/NoSQL/MongoDB\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 5066218
+      }
+    },
+    {
+      "query": "path:\"Computer Science/Database/MySQL\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 14016084
+      }
+    },
+    {
+      "query": "path:\"Computer Science/Database/NoSQL\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 5431473
+      }
+    },
+    {
+      "query": "path:\"Computer Science/Database\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 12946154
+      }
+    },
+    {
+      "query": "path:Statistic  ",
+      "color": {
+        "a": 1,
+        "rgb": 16711680
+      }
+    },
+    {
+      "query": "path:\"Data Science\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 13870928
+      }
+    },
+    {
+      "query": "path:\"Computer Science\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 16367345
+      }
+    }
+  ],
+  "collapse-display": false,
+  "showArrow": false,
+  "textFadeMultiplier": -0.4,
+  "nodeSizeMultiplier": 0.986546391752577,
+  "lineSizeMultiplier": 1.35025773195876,
+  "collapse-forces": false,
+  "centerStrength": 0.626288659793814,
+  "repelStrength": 12.1134020618557,
+  "linkStrength": 1,
+  "linkDistance": 187,
+  "scale": 0.5694149046098155,
+  "close": true
+}

@@ -1,0 +1,22 @@
+{
+  "useMarkdownLinks": true,
+  "uriCallbacks": true,
+  "alwaysUpdateLinks": true,
+  "attachmentFolderPath": "./",
+  "showLineNumber": false,
+  "showInlineTitle": true,
+  "promptDelete": true,
+  "newLinkFormat": "absolute",
+  "showUnsupportedFiles": true,
+  "userIgnoreFilters": null,
+  "foldHeading": true,
+  "vimMode": false,
+  "pdfExportSettings": {
+    "includeName": true,
+    "pageSize": "Letter",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 100
+  },
+  "trashOption": "local"
+}

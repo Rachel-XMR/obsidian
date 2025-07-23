@@ -1,0 +1,15 @@
+{
+  "cssTheme": "Blue Topaz",
+  "theme": "obsidian",
+  "accentColor": "#f0bc00",
+  "enabledCssSnippets": [
+    "custom-admonitions.158870"
+  ],
+  "monospaceFontFamily": "Candara",
+  "interfaceFontFamily": "",
+  "baseFontSize": 14,
+  "baseFontSizeAction": true,
+  "textFontFamily": "WDMMCZAGJC",
+  "showRibbon": true,
+  "nativeMenus": true
+}

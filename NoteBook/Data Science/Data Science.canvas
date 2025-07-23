@@ -1,0 +1,462 @@
+{
+  "edges": [
+    {
+      "fromNode": "f6bc5fd718fd654a",
+      "fromSide": "left",
+      "id": "277358d064e502a4",
+      "styleAttributes": {
+        "pathfindingMethod": "square"
+      },
+      "toEnd": "none",
+      "toNode": "674611a409a66df3",
+      "toSide": "right"
+    },
+    {
+      "fromNode": "b8d5113c1ed2aac9",
+      "fromSide": "left",
+      "id": "f8e4b3470e6a9a75",
+      "styleAttributes": {
+        "pathfindingMethod": "square"
+      },
+      "toEnd": "none",
+      "toNode": "674611a409a66df3",
+      "toSide": "right"
+    },
+    {
+      "fromNode": "b7d4e9139ea674bc",
+      "fromSide": "left",
+      "id": "3744b9835e1c70bc",
+      "styleAttributes": {
+        "pathfindingMethod": "square"
+      },
+      "toEnd": "none",
+      "toNode": "fa9646bfb6d2ad61",
+      "toSide": "right"
+    },
+    {
+      "fromNode": "75dadc8277257a13",
+      "fromSide": "left",
+      "id": "bca23b5944df294e",
+      "styleAttributes": {
+        "pathfindingMethod": "square"
+      },
+      "toEnd": "none",
+      "toNode": "fa9646bfb6d2ad61",
+      "toSide": "right"
+    },
+    {
+      "fromNode": "674611a409a66df3",
+      "fromSide": "left",
+      "id": "2b4d3c43e57c5a95",
+      "styleAttributes": {
+        "pathfindingMethod": "square"
+      },
+      "toEnd": "none",
+      "toNode": "da67106ff65771cb",
+      "toSide": "right"
+    },
+    {
+      "fromNode": "79d73d910ad7d01e",
+      "fromSide": "left",
+      "id": "7e3743781da17813",
+      "styleAttributes": {
+        "pathfindingMethod": "square"
+      },
+      "toEnd": "none",
+      "toNode": "da67106ff65771cb",
+      "toSide": "right"
+    },
+    {
+      "fromNode": "b4abff0d99bfde67",
+      "fromSide": "left",
+      "id": "c3b68f6112524eb6",
+      "styleAttributes": {
+        "pathfindingMethod": "square"
+      },
+      "toEnd": "none",
+      "toNode": "da67106ff65771cb",
+      "toSide": "right"
+    },
+    {
+      "fromNode": "da67106ff65771cb",
+      "fromSide": "left",
+      "id": "03df8b1d31ce7165",
+      "styleAttributes": {
+        "pathfindingMethod": "square"
+      },
+      "toEnd": "none",
+      "toNode": "95aeeaa15a00c396",
+      "toSide": "right"
+    },
+    {
+      "fromNode": "9d559ffecf45f1fc",
+      "fromSide": "left",
+      "id": "3226b6fe8bc79170",
+      "styleAttributes": {
+        "pathfindingMethod": "square"
+      },
+      "toEnd": "none",
+      "toNode": "da67106ff65771cb",
+      "toSide": "right"
+    },
+    {
+      "fromNode": "6ad94aa76eafe50a",
+      "fromSide": "right",
+      "id": "9e0d83397d2c4113",
+      "styleAttributes": {
+        "pathfindingMethod": "square"
+      },
+      "toEnd": "none",
+      "toNode": "880080f51056eb8e",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "6ad94aa76eafe50a",
+      "fromSide": "right",
+      "id": "04f136554fad7f49",
+      "styleAttributes": {
+        "pathfindingMethod": "square"
+      },
+      "toEnd": "none",
+      "toNode": "d9f8206eaf1cccba",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "6ad94aa76eafe50a",
+      "fromSide": "right",
+      "id": "f1205b9250653c89",
+      "styleAttributes": {
+        "pathfindingMethod": "square"
+      },
+      "toEnd": "none",
+      "toNode": "17ea2c46990c4896",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "95aeeaa15a00c396",
+      "fromSide": "right",
+      "id": "e44c2df764d48b3f",
+      "styleAttributes": {
+        "pathfindingMethod": "square"
+      },
+      "toEnd": "none",
+      "toNode": "6ad94aa76eafe50a",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "674611a409a66df3",
+      "fromSide": "right",
+      "id": "957fa7a15239559c",
+      "styleAttributes": {
+        "pathfindingMethod": "square"
+      },
+      "toEnd": "none",
+      "toNode": "39938daf4f906721",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "79d73d910ad7d01e",
+      "fromSide": "right",
+      "id": "3fca0ca963a6ead4",
+      "styleAttributes": {
+        "pathfindingMethod": "square"
+      },
+      "toEnd": "none",
+      "toNode": "39938daf4f906721",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "6ad94aa76eafe50a",
+      "fromSide": "right",
+      "id": "4b8a5f84af39c798",
+      "styleAttributes": {
+        "pathfindingMethod": "square"
+      },
+      "toEnd": "none",
+      "toNode": "d3b41e2b8dfe710b",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "474bfea6f0b6115e",
+      "fromSide": "left",
+      "id": "0853eb6e019d63c3",
+      "styleAttributes": {
+        "pathfindingMethod": "square"
+      },
+      "toEnd": "none",
+      "toNode": "e8ebe42437143ca4",
+      "toSide": "right"
+    },
+    {
+      "fromNode": "e8ebe42437143ca4",
+      "fromSide": "right",
+      "id": "4c88c36c28da658b",
+      "styleAttributes": {
+        "pathfindingMethod": "square"
+      },
+      "toEnd": "none",
+      "toNode": "01c67aca86a533e2",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "e8ebe42437143ca4",
+      "fromSide": "right",
+      "id": "e352e7c02039b17b",
+      "styleAttributes": {
+        "pathfindingMethod": "square"
+      },
+      "toEnd": "none",
+      "toNode": "d9ce99aa04279344",
+      "toSide": "left"
+    }
+  ],
+  "nodes": [
+    {
+      "height": 1480,
+      "id": "b7d4e9139ea674bc",
+      "label": "Natural Language Processing",
+      "styleAttributes": {
+      },
+      "type": "group",
+      "width": 2940,
+      "x": 620,
+      "y": -160
+    },
+    {
+      "height": 60,
+      "id": "6ad94aa76eafe50a",
+      "styleAttributes": {
+      },
+      "text": "理解詞義\n數學化地表示詞義",
+      "type": "text",
+      "width": 160,
+      "x": 1600,
+      "y": 740
+    },
+    {
+      "height": 60,
+      "id": "d9f8206eaf1cccba",
+      "styleAttributes": {
+      },
+      "text": "多種向量學習方法 (基於計數vs基於預測)\n將單詞轉換成可計算的數字向量",
+      "type": "text",
+      "width": 320,
+      "x": 1840,
+      "y": 820
+    },
+    {
+      "height": 60,
+      "id": "d3b41e2b8dfe710b",
+      "styleAttributes": {
+      },
+      "text": "Word Sense Disambiguation (WSD) 解決多義詞的語境問題",
+      "type": "text",
+      "width": 240,
+      "x": 1840,
+      "y": 1080
+    },
+    {
+      "height": 60,
+      "id": "17ea2c46990c4896",
+      "styleAttributes": {
+      },
+      "text": "神經網絡 (Neural Networks) \n使用學習更高級的詞向量",
+      "type": "text",
+      "width": 320,
+      "x": 1840,
+      "y": 940
+    },
+    {
+      "height": 60,
+      "id": "880080f51056eb8e",
+      "styleAttributes": {
+      },
+      "text": "Distributional Semantics 分佈語義\n*詞與詞的關係*",
+      "type": "text",
+      "width": 260,
+      "x": 1840,
+      "y": 680
+    },
+    {
+      "file": "Data Science/Natural Language Processing NLP/Tokenisation 象征化.md",
+      "height": 60,
+      "id": "79d73d910ad7d01e",
+      "styleAttributes": {
+      },
+      "type": "file",
+      "width": 260,
+      "x": 2160,
+      "y": 255
+    },
+    {
+      "height": 60,
+      "id": "b4abff0d99bfde67",
+      "styleAttributes": {
+        "textAlign": null
+      },
+      "text": "# Parsing ",
+      "type": "text",
+      "width": 180,
+      "x": 2160,
+      "y": 385
+    },
+    {
+      "height": 60,
+      "id": "9d559ffecf45f1fc",
+      "styleAttributes": {
+      },
+      "text": "# information",
+      "type": "text",
+      "width": 160,
+      "x": 2160,
+      "y": 505
+    },
+    {
+      "file": "Data Science/Natural Language Processing NLP/OpenNLP.md",
+      "height": 60,
+      "id": "f6bc5fd718fd654a",
+      "styleAttributes": {
+        "border": null
+      },
+      "type": "file",
+      "width": 140,
+      "x": 2760,
+      "y": -125
+    },
+    {
+      "file": "Data Science/Natural Language Processing NLP/Sentence Segmentation 句子細分.md",
+      "height": 60,
+      "id": "674611a409a66df3",
+      "styleAttributes": {
+        "border": null
+      },
+      "type": "file",
+      "width": 400,
+      "x": 2160,
+      "y": -65
+    },
+    {
+      "file": "Data Science/Natural Language Processing NLP/Natural Language Processing NLP.md",
+      "height": 590,
+      "id": "95aeeaa15a00c396",
+      "styleAttributes": {
+        "border": null
+      },
+      "type": "file",
+      "width": 680,
+      "x": 660,
+      "y": 150
+    },
+    {
+      "height": 60,
+      "id": "da67106ff65771cb",
+      "styleAttributes": {
+      },
+      "text": "NLP Pipeline",
+      "type": "text",
+      "width": 130,
+      "x": 1600,
+      "y": 215
+    },
+    {
+      "file": "Data Science/Pasted image 20250217090811.png",
+      "height": 130,
+      "id": "e04b73e7a0922c28",
+      "styleAttributes": {
+      },
+      "type": "file",
+      "width": 324,
+      "x": 1503,
+      "y": 275
+    },
+    {
+      "file": "PICTURE/introduction to NLP/be96a21abd21e8c93a2bd2a563c27e53_MD5.jpg",
+      "height": 199,
+      "id": "39938daf4f906721",
+      "styleAttributes": {
+      },
+      "type": "file",
+      "width": 740,
+      "x": 2760,
+      "y": 186
+    },
+    {
+      "file": "Data Science/Natural Language Processing NLP/spaCy.md",
+      "height": 60,
+      "id": "b8d5113c1ed2aac9",
+      "styleAttributes": {
+        "border": null
+      },
+      "type": "file",
+      "width": 150,
+      "x": 2760,
+      "y": 35
+    },
+    {
+      "file": "Data Science/Text Mining/Text Mining.md",
+      "height": 270,
+      "id": "75dadc8277257a13",
+      "styleAttributes": {
+      },
+      "type": "file",
+      "width": 260,
+      "x": 620,
+      "y": -800
+    },
+    {
+      "height": 150,
+      "id": "fa9646bfb6d2ad61",
+      "styleAttributes": {
+      },
+      "text": "## NLP vs Text Mining\n\n- TM that is driven by NLP 由NLP驅動的TM\n",
+      "type": "text",
+      "width": 320,
+      "x": -40,
+      "y": -200
+    },
+    {
+      "height": 340,
+      "id": "e8ebe42437143ca4",
+      "styleAttributes": {
+      },
+      "text": "Concepts 概念\n![](Data%20Science/Pasted%20image%2020250516064938.png)",
+      "type": "text",
+      "width": 280,
+      "x": 160,
+      "y": 1820
+    },
+    {
+      "height": 120,
+      "id": "474bfea6f0b6115e",
+      "styleAttributes": {
+      },
+      "text": "AI is intelligence demonstrated by\nmachines, as opposed to natural\nintelligence displayed by animals\nincluding humans 人工智能是機器所表現出的智能",
+      "type": "text",
+      "width": 260,
+      "x": 760,
+      "y": 1680
+    },
+    {
+      "height": 160,
+      "id": "01c67aca86a533e2",
+      "styleAttributes": {
+      },
+      "text": "ML is the study of computer\nalgorithms that can improve\nautomatically through experience\nand using data. It is seen as a part of artificial intelligence 研究通過經驗和數據自動改進的計算機算法 ",
+      "type": "text",
+      "width": 260,
+      "x": 760,
+      "y": 1960
+    },
+    {
+      "height": 100,
+      "id": "d9ce99aa04279344",
+      "styleAttributes": {
+      },
+      "text": "DL is part of a broader family of\nmachine learning methods based on artificial neural networks DL是基於人工神經網絡的機器學習方法的一部分",
+      "type": "text",
+      "width": 260,
+      "x": 760,
+      "y": 2240
+    }
+  ]
+}

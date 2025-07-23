@@ -1,0 +1,18 @@
+{
+  "automaticSync": true,
+  "syncTimeout": 60,
+  "downloadAudio": true,
+  "syncDirectory": "voicenotes",
+  "deleteSynced": false,
+  "reallyDeleteSynced": false,
+  "todoTag": "",
+  "filenameDateFormat": "YYYY-MM-DD",
+  "useDefaultFrontmatter": true,
+  "noteTemplate": "# {{ title }}\n\nDate: {{ date }}\n\n{% if summary %}\n## Summary\n\n{{ summary }}\n{% endif %}\n\n{% if points %}\n## Main points\n\n{{ points }}\n{% endif %}\n\n{% if attachments %}\n## Attachments\n\n{{ attachments }}\n{% endif %}\n\n{% if tidy %}\n## Tidy Transcript\n\n{{ tidy }}\n\n{% else %}\n## Transcript\n\n{{ transcript }}\n{% endif %}\n\n{% if audio_link %}\n[Audio]({{ audio_link }})\n{% endif %}\n\n{% if todo %}\n## Todos\n\n{{ todo }}\n{% endif %}\n\n{% if email %}\n## Email\n\n{{ email }}\n{% endif %}\n\n{% if blog %}\n## Blog\n\n{{ blog }}\n{% endif %}\n\n{% if tweet %}\n## Tweet\n\n{{ tweet }}\n{% endif %}\n\n{% if custom %}\n## Others\n\n{{ custom }}\n{% endif %}\n\n{% if tags %}\n## Tags\n\n{{ tags }}\n{% endif %}\n\n{% if related_notes %}\n# Related Notes\n\n{{ related_notes }}\n{% endif %}\n\n{% if parent_note %}\n## Parent Note\n\n- {{ parent_note }}\n{% endif %}\n\n{% if subnotes %}\n## Subnotes\n\n{{ subnotes }}\n{% endif %}",
+  "filenameTemplate": "\n{{date}} {{title}}\n",
+  "excludeTags": [],
+  "dateFormat": "YYYY-MM-DD",
+  "token": "337168|YKJeWLGGWhCEuZD9UCRR8OvADGKzclxqlybzLq6B892dc283",
+  "username": "rachelx312m@gmail.com",
+  "password": null
+}
