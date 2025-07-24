@@ -68,7 +68,9 @@
     "//Data Science/Data Science/Neural Networks 神經網絡",
     "//Computer Science/Computer Science/cognitive robotics/Computer Science/cognitive robotics/Computer vision",
     "//Master Project",
-    "//Computer Science/Computer Science/Database"
+    "//Computer Science/Computer Science/cognitive robotics",
+    "//Computer Science/Computer Science/cognitive robotics/Computer Science/cognitive robotics/HRI",
+    "//Computer Science/Computer Science/cognitive robotics/Computer Science/cognitive robotics/HRI (Human-Robot Interaction)"
   ],
   "expandFolderOnClick": true,
   "menuTriggerChar": "/",
@@ -90,7 +92,7 @@
   "inlineBacklinks": false,
   "inlineContext": true,
   "inlineBacklinksExpanded": false,
-  "inlineContextExpanded": false,
+  "inlineContextExpanded": true,
   "inlineContextProperties": true,
   "inlineContextSectionsExpanded": true,
   "dataviewInlineContext": false,

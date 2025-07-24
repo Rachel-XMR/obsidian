@@ -11,15 +11,12 @@
             "id": "115514a1741192ea",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "mk-space",
               "state": {
-                "file": "Computer Science/Database/Data modeling.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
+                "path": "Computer Science/cognitive robotics/HRI (Human-Robot Interaction)"
               },
               "icon": "lucide-file",
-              "title": "Data modeling"
+              "title": "HRI (Human-Robot Interaction)"
             }
           }
         ]
@@ -45,7 +42,7 @@
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
-              "title": "檔案瀏覽器"
+              "title": "Files"
             }
           },
           {
@@ -64,8 +61,8 @@
             "state": {
               "type": "recent-files",
               "state": {},
-              "icon": "clock",
-              "title": "Recent Files"
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
             }
           },
           {
@@ -78,7 +75,8 @@
               "title": "Spaces"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -162,8 +160,8 @@
             "state": {
               "type": "todo",
               "state": {},
-              "icon": "checkmark",
-              "title": "Todo List"
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
             }
           },
           {
@@ -186,8 +184,8 @@
             "state": {
               "type": "calendar",
               "state": {},
-              "icon": "calendar-with-checkmark",
-              "title": "Calendar"
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
             }
           },
           {
@@ -255,11 +253,22 @@
             "state": {
               "type": "advanced-tables-toolbar",
               "state": {},
-              "icon": "spreadsheet",
-              "title": "Advanced Tables"
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "f53e1ba595635ee5",
+            "type": "leaf",
+            "state": {
+              "type": "todo",
+              "state": {},
+              "icon": "checkmark",
+              "title": "Todo List"
             }
           }
-        ]
+        ],
+        "currentTab": 9
       },
       {
         "id": "7bc0dce4fa88252f",
@@ -272,8 +281,8 @@
             "state": {
               "type": "copilot-chat-view",
               "state": {},
-              "icon": "message-square",
-              "title": "Copilot"
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
             }
           },
           {
@@ -303,35 +312,45 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:開啟快速切換": false,
-      "graph:查看關聯圖": false,
-      "canvas:建立新畫布": false,
-      "command-palette:開啟命令面板": false,
-      "markdown-importer:開啟 Markdown 格式轉換器": false,
-      "audio-recorder:開始/停止錄音": false,
-      "publish:發佈變動內容": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "markdown-importer:Open format converter": false,
+      "audio-recorder:Start/stop recording": false,
+      "publish:Publish changes...": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
+      "hide-folders:Hide hidden folders again": false,
+      "media-extended:Open media": false,
       "obsidian-kanban:Create new board": false,
       "dbfolder:Create a new database table": false,
-      "omnisearch:Omnisearch": false,
-      "templates:插入模板": false,
-      "webpage-html-export:Export Vault to HTML": true,
-      "callout-manager:Insert Callout": true,
-      "hide-folders:Hide hidden folders again": true,
-      "media-extended:Open media": false,
       "obsidian-importer:Open Importer": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "markdown-table-editor:Open Markdown Table Editor": false,
-      "templater-obsidian:Templater": true,
-      "obsidian42-text-transporter:Text Transporter": true,
-      "obsidian-local-images-plus:Local Images Plus  0.16.3\r\nLocalize attachments (plugin folder)": true,
+      "callout-manager:Insert Callout": false,
+      "templater-obsidian:Templater": false,
+      "webpage-html-export:Export Vault to HTML": false,
+      "obsidian42-text-transporter:Text Transporter": false,
+      "omnisearch:Omnisearch": false,
+      "obsidian-local-images-plus:Local Images Plus  0.16.3\r\nLocalize attachments (plugin folder)": false,
       "whisper:Open recording controls": false,
-      "copilot:Open Copilot Chat": true,
-      "smart-composer:Open smart composer": true
+      "smart-composer:Open smart composer": false,
+      "copilot:Open Copilot Chat": false
     }
   },
-  "active": "89d062b0c7757f4a",
+  "active": "3cb886485829023e",
   "lastOpenFiles": [
+    "Computer Science/cognitive robotics/Computer vision/Computer vision.md",
+    "Computer Science/cognitive robotics/HRI (Human-Robot Interaction)/HRI (Human-Robot Interaction).md",
+    "Computer Science/cognitive robotics/Human-Robot Interaction (HRI) and Applications.md",
+    "Computer Science/cognitive robotics/HRI (Human-Robot Interaction)",
+    "Computer Science/cognitive robotics/cognitive robotics.md",
+    "Computer Science/Database/Database.md",
+    "Computer Science/Computer Science.md",
+    "voicenotes",
+    "Computer Science/Database/Data modeling.md",
+    "Tags",
     "PICTURE/Data modeling/47b16b86cbec4bda58ae719488bd2880_MD5.jpeg",
     "Computer Science/Database/Pasted image 20250723172313.png",
     "PICTURE/Data modeling/4e562de3980e95e0ea605bd3d65274f4_MD5.jpeg",
@@ -342,12 +361,9 @@
     "Computer Science/Database/Pasted image 20250723165153.png",
     "PICTURE/Data modeling/87d77dd14092747bbb05ee7a26ba881b_MD5.jpeg",
     "Computer Science/Database/Pasted image 20250723165140.png",
-    "PICTURE/Data modeling/9d60585f4f83ba0892604bc9f78bc95c_MD5.jpeg",
     "PICTURE/Data modeling",
     "Computer Science/Database/DBMS - Database Management System.md",
-    "Computer Science/Database/Data modeling.md",
     "PICTURE/DBMS - Database Management System",
-    "Computer Science/Database/Database.md",
     "PICTURE/Database",
     "Computer Science/Database/MySQL/MySQL.md",
     "Master Project/Intro.md",
@@ -359,9 +375,7 @@
     "Statistic/Classification/Clustering/Clustering.md",
     "Statistic/Classification/Classification.md",
     "Computer Science/cognitive robotics/Computer vision/Local Features.md",
-    "Computer Science/cognitive robotics/Computer vision/Computer vision.md",
     "Data Science/Neural Networks 神經網絡/CNN Convolutional Neural Networks.md",
-    "Computer Science/cognitive robotics/cognitive robotics.md",
     "Computer Science/cognitive robotics/未命名.md",
     "Computer Science/cognitive robotics/Computer vision",
     "Computer Science/cognitive robotics/Cognitive Robot Simulation.md",
@@ -369,16 +383,11 @@
     "Computer Science/cognitive robotics/Modelling Cognitive System 認知系統建模.md",
     "Computer Science/cognitive robotics/HUMANOID ROBOTS 人形機器人.md",
     "Computer Science/cognitive robotics/development.md",
-    "Computer Science/cognitive robotics/Human-Robot Interaction (HRI) and Applications.md",
     "Data Science/Neural Networks 神經網絡/RNN.md",
     "PICTURE/RNN",
     "Data Science/Natural Language Processing NLP/Annotation Formats.md",
-    "Data Science/Neural Networks 神經網絡/Introduction to ANNs.md",
     "PICTURE/CNN Convolutional Neural Networks",
-    "PICTURE/Neural Networks 神經網絡",
-    "PICTURE/Neural Networks 人工神經網絡",
     "Data Science/Data Science.canvas",
-    "PICTURE/Cognitive Robot Simulation",
     "Computer Science/Database/Untitled.canvas",
     "未命名.canvas"
   ]

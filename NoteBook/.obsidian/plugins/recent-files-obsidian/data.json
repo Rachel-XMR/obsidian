@@ -1,6 +1,30 @@
 {
   "recentFiles": [
     {
+      "basename": "HRI (Human-Robot Interaction)",
+      "path": "Computer Science/cognitive robotics/HRI (Human-Robot Interaction)/HRI (Human-Robot Interaction).md"
+    },
+    {
+      "basename": "Computer vision",
+      "path": "Computer Science/cognitive robotics/Computer vision/Computer vision.md"
+    },
+    {
+      "basename": "Human-Robot Interaction (HRI) and Applications",
+      "path": "Computer Science/cognitive robotics/Human-Robot Interaction (HRI) and Applications.md"
+    },
+    {
+      "basename": "cognitive robotics",
+      "path": "Computer Science/cognitive robotics/cognitive robotics.md"
+    },
+    {
+      "basename": "Database",
+      "path": "Computer Science/Database/Database.md"
+    },
+    {
+      "basename": "Computer Science",
+      "path": "Computer Science/Computer Science.md"
+    },
+    {
       "basename": "Data modeling",
       "path": "Computer Science/Database/Data modeling.md"
     },
@@ -11,10 +35,6 @@
     {
       "basename": "DBMS - Database Management System",
       "path": "Computer Science/Database/DBMS - Database Management System.md"
-    },
-    {
-      "basename": "Database",
-      "path": "Computer Science/Database/Database.md"
     },
     {
       "basename": "MySQL",
@@ -57,16 +77,8 @@
       "path": "Computer Science/cognitive robotics/Computer vision/未命名.md"
     },
     {
-      "basename": "Computer vision",
-      "path": "Computer Science/cognitive robotics/Computer vision/Computer vision.md"
-    },
-    {
       "basename": "CNN Convolutional Neural Networks",
       "path": "Data Science/Neural Networks 神經網絡/CNN Convolutional Neural Networks.md"
-    },
-    {
-      "basename": "cognitive robotics",
-      "path": "Computer Science/cognitive robotics/cognitive robotics.md"
     },
     {
       "basename": "未命名",
@@ -91,10 +103,6 @@
     {
       "basename": "development",
       "path": "Computer Science/cognitive robotics/development.md"
-    },
-    {
-      "basename": "Human-Robot Interaction (HRI) and Applications",
-      "path": "Computer Science/cognitive robotics/Human-Robot Interaction (HRI) and Applications.md"
     },
     {
       "basename": "RNN",
@@ -191,14 +199,6 @@
     {
       "basename": " multivariate data",
       "path": "Statistic/ multivariate data.md"
-    },
-    {
-      "basename": "Machine Learning",
-      "path": "Data Science/Machine Learning/Machine Learning.md"
-    },
-    {
-      "basename": "Multivariate Central Limit Theorem, CLT 多元中心極限定理",
-      "path": "Statistic/Dimensionality Reduction/Multivariate Central Limit Theorem, CLT 多元中心極限定理.md"
     }
   ],
   "omittedPaths": [],
