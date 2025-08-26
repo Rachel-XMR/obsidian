@@ -1,5 +1,5 @@
 ---
 LINK:
-  - "[[Computer Science]]"
-  - "[[cognitive robotics]]"
+  - HRI (Human-Robot Interaction)
+  - Gazebo
 ---

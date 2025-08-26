@@ -1,3 +1,8 @@
+---
+LINK:
+  - "[[Master Project/Literature Review.md]]"
+  - "[[Master Project]]"
+---
 
 
 
@@ -81,6 +86,58 @@ your_project/
 | **1. Model（LLM）**       | 你必須明確使用哪一種語言模型來處理指令與對話，這會影響效能、準確率與可控性    | `OpenAI GPT-4`（推薦）`HuggingFace FLAN-T5`, `LLaMA`, `Gemma`, `Claude`, etc. |
 | **2. Data（語料 / 任務語句）**  | 用來測試或微調模型，必須有語境明確的人機對話語料來設計互動場景或進行測試     | 自建一套對話任務語料或使用現有HRI資料集（如 RoboDial, Alexa TaskBot, etc.）                    |
 | **3. Robot（平台 / 模擬環境）** | 你需要一個具體的互動對象（真實機器人或模擬器），否則沒法驗證互動流程與使用者體驗 | 模擬器：PyBullet, Webots（開源免費）真機器人：NAO、Pepper、TurtleBot、Fetch等                |
+
+
+
+## 主题：**人機互動 + 康復醫療場景 + 虛擬機器人平台（例如 Gazebo）**
+
+
+
+
+## 使用： Gazebo来模拟
+
+
+## 目标： 语音指令 -> 导航控制 -> 虚拟机器人动作
+
+
+
+## 结构 ：
+```
+     ┌────────────┐
+     │   Python   │（你写的控制脚本）
+     └────┬───────┘
+          ↓
+ ros2 topic pub /cmd_vel
+          ↓
+   ┌────────────┐
+   │   ROS 2    │（中间件桥梁）
+   └────┬───────┘
+        ↓
+ ros_gz_bridge（桥接）
+        ↓
+/model/tugbot/cmd_vel
+        ↓
+   ┌────────────┐
+   │  Gazebo    │（虚拟机器人平台）
+   └────────────┘
+
+```
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

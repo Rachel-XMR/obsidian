@@ -1,12 +1,48 @@
 {
   "recentFiles": [
     {
+      "basename": "Untitled",
+      "path": "Master Project/Untitled.md"
+    },
+    {
+      "basename": "Report",
+      "path": "Master Project/Report.md"
+    },
+    {
+      "basename": "场景",
+      "path": "Master Project/场景.md"
+    },
+    {
+      "basename": "Intro",
+      "path": "Master Project/Intro.md"
+    },
+    {
+      "basename": "Literature Review",
+      "path": "Master Project/Literature Review.md"
+    },
+    {
+      "basename": "Gazebo",
+      "path": "Computer Science/cognitive robotics/HRI (Human-Robot Interaction)/Gazebo.md"
+    },
+    {
+      "basename": "Master Project",
+      "path": "Master Project/Master Project.md"
+    },
+    {
       "basename": "HRI (Human-Robot Interaction)",
       "path": "Computer Science/cognitive robotics/HRI (Human-Robot Interaction)/HRI (Human-Robot Interaction).md"
     },
     {
       "basename": "Computer vision",
       "path": "Computer Science/cognitive robotics/Computer vision/Computer vision.md"
+    },
+    {
+      "basename": "Local Features",
+      "path": "Computer Science/cognitive robotics/Computer vision/Local Features.md"
+    },
+    {
+      "basename": "Deep Learning",
+      "path": "Data Science/Deep Learning/Deep Learning.md"
     },
     {
       "basename": "Human-Robot Interaction (HRI) and Applications",
@@ -41,14 +77,6 @@
       "path": "Computer Science/Database/MySQL/MySQL.md"
     },
     {
-      "basename": "Intro",
-      "path": "Master Project/Intro.md"
-    },
-    {
-      "basename": "Literature Review",
-      "path": "Master Project/Literature Review.md"
-    },
-    {
       "basename": "Deep Learning for NLP",
       "path": "Data Science/Deep Learning/Deep Learning for NLP.md"
     },
@@ -67,10 +95,6 @@
     {
       "basename": "Classification",
       "path": "Statistic/Classification/Classification.md"
-    },
-    {
-      "basename": "Local Features",
-      "path": "Computer Science/cognitive robotics/Computer vision/Local Features.md"
     },
     {
       "basename": "未命名",
@@ -119,10 +143,6 @@
     {
       "basename": "Neural Networks 神經網絡",
       "path": "Data Science/Neural Networks 神經網絡/Neural Networks 神經網絡.md"
-    },
-    {
-      "basename": "Deep Learning",
-      "path": "Data Science/Deep Learning/Deep Learning.md"
     },
     {
       "basename": "Data Science",
@@ -179,26 +199,6 @@
     {
       "basename": "Unsupervised Learning",
       "path": "Data Science/Machine Learning/Unsupervised Learning/Unsupervised Learning.md"
-    },
-    {
-      "basename": "Statistic",
-      "path": "Statistic/Statistic.md"
-    },
-    {
-      "basename": "PCA",
-      "path": "Statistic/Dimensionality Reduction/PCA.md"
-    },
-    {
-      "basename": "Supervised Learning",
-      "path": "Data Science/Machine Learning/Supervised Learning/Supervised Learning.md"
-    },
-    {
-      "basename": "Dimensionality Reduction",
-      "path": "Statistic/Dimensionality Reduction/Dimensionality Reduction.md"
-    },
-    {
-      "basename": " multivariate data",
-      "path": "Statistic/ multivariate data.md"
     }
   ],
   "omittedPaths": [],

@@ -11,15 +11,34 @@
             "id": "115514a1741192ea",
             "type": "leaf",
             "state": {
-              "type": "mk-space",
+              "type": "markdown",
               "state": {
-                "path": "Computer Science/cognitive robotics/HRI (Human-Robot Interaction)"
+                "file": "Master Project/场景.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "HRI (Human-Robot Interaction)"
+              "title": "场景"
+            }
+          },
+          {
+            "id": "a0c2de2a10cb7fbb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Master Project/Content.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Content"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -312,6 +331,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:Create new base": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -339,10 +359,28 @@
       "copilot:Open Copilot Chat": false
     }
   },
-  "active": "3cb886485829023e",
+  "active": "a0c2de2a10cb7fbb",
   "lastOpenFiles": [
-    "Computer Science/cognitive robotics/Computer vision/Computer vision.md",
+    "Master Project/Report.md",
+    "Master Project/Content.md",
+    "Master Project/场景.md",
+    "Master Project/Intro.md",
+    "Master Project/Literature Review.md",
+    "Computer Science/cognitive robotics/HRI (Human-Robot Interaction)/Gazebo.md",
+    "PICTURE/Gazebo/4777eb5fd07d713d70b246155e4d2959_MD5.jpeg",
+    "Computer Science/cognitive robotics/HRI (Human-Robot Interaction)/Pasted image 20250727202240.png",
+    "Master Project/Master Project.md",
     "Computer Science/cognitive robotics/HRI (Human-Robot Interaction)/HRI (Human-Robot Interaction).md",
+    "Computer Science/cognitive robotics/Computer vision/Computer vision.md",
+    "Computer Science/cognitive robotics/Computer vision/Local Features.md",
+    "Master Project/[\"Master Project\".md",
+    "Data Science/Deep Learning/Deep Learning.md",
+    "Computer Science/cognitive robotics/HRI (Human-Robot Interaction)/.md",
+    "PICTURE/Gazebo/9b27705d698f189be3dd45177c0323ec_MD5.jpeg",
+    "Computer Science/cognitive robotics/HRI (Human-Robot Interaction)/Pasted image 20250725200558.png",
+    "PICTURE/Gazebo/52a36a5f6182fe20e32c89c9c0c8f061_MD5.jpeg",
+    "PICTURE/Gazebo",
+    "Computer Science/cognitive robotics/HRI (Human-Robot Interaction)/Pasted image 20250725200539.png",
     "Computer Science/cognitive robotics/Human-Robot Interaction (HRI) and Applications.md",
     "Computer Science/cognitive robotics/HRI (Human-Robot Interaction)",
     "Computer Science/cognitive robotics/cognitive robotics.md",
@@ -355,38 +393,20 @@
     "Computer Science/Database/Pasted image 20250723172313.png",
     "PICTURE/Data modeling/4e562de3980e95e0ea605bd3d65274f4_MD5.jpeg",
     "Computer Science/Database/Pasted image 20250723171902.png",
-    "PICTURE/Data modeling/ca5fc324ee7e4b1e20e5b27fec4de29e_MD5.jpeg",
-    "Computer Science/Database/Pasted image 20250723165208.png",
-    "PICTURE/Data modeling/4d95824eb9741e3a8fef982cd180509e_MD5.jpeg",
-    "Computer Science/Database/Pasted image 20250723165153.png",
-    "PICTURE/Data modeling/87d77dd14092747bbb05ee7a26ba881b_MD5.jpeg",
-    "Computer Science/Database/Pasted image 20250723165140.png",
     "PICTURE/Data modeling",
     "Computer Science/Database/DBMS - Database Management System.md",
     "PICTURE/DBMS - Database Management System",
     "PICTURE/Database",
     "Computer Science/Database/MySQL/MySQL.md",
-    "Master Project/Intro.md",
-    "Master Project/Literature Review.md",
     "Data Science/Deep Learning/Deep Learning for NLP.md",
     "Statistic/Classification/Clustering/K-Means k均值聚類算法.md",
     "Statistic/Classification/Clustering/Model-based Clustering.md",
     "PICTURE/Model-based Clustering",
     "Statistic/Classification/Clustering/Clustering.md",
     "Statistic/Classification/Classification.md",
-    "Computer Science/cognitive robotics/Computer vision/Local Features.md",
     "Data Science/Neural Networks 神經網絡/CNN Convolutional Neural Networks.md",
-    "Computer Science/cognitive robotics/未命名.md",
     "Computer Science/cognitive robotics/Computer vision",
-    "Computer Science/cognitive robotics/Cognitive Robot Simulation.md",
-    "Computer Science/cognitive robotics/intro.md",
-    "Computer Science/cognitive robotics/Modelling Cognitive System 認知系統建模.md",
-    "Computer Science/cognitive robotics/HUMANOID ROBOTS 人形機器人.md",
-    "Computer Science/cognitive robotics/development.md",
-    "Data Science/Neural Networks 神經網絡/RNN.md",
     "PICTURE/RNN",
-    "Data Science/Natural Language Processing NLP/Annotation Formats.md",
-    "PICTURE/CNN Convolutional Neural Networks",
     "Data Science/Data Science.canvas",
     "Computer Science/Database/Untitled.canvas",
     "未命名.canvas"
